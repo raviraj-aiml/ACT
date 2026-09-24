@@ -94,32 +94,30 @@ const translations = {
         products_description:
             "Choose the coconut that suits your requirement — from everyday use to bulk orders.",
 
-        product_1_type:
-            "PREMIUM",
+            
         product_1_title:
-            "Tender Coconut",
+            "Large Coconuts(500g)",
         product_1_text:
-            "Naturally refreshing tender coconuts with delicious coconut water.",
+            "Price: 30Rs.(per coconut)",
         product_1_button:
             "Order Now",
 
-        product_2_type:
-            "FARM FRESH",
+        
+            
         product_2_title:
-            "Mature Coconut",
+            "Medium Coconuts(350g)",
         product_2_text:
-            "Fresh mature coconuts suitable for homes, shops and food businesses.",
+            "Price: 25Rs.(per coconut)",
         product_2_button:
             "Order Now",
 
-        product_3_type:
-            "BUSINESS",
+       
         product_3_title:
-            "Bulk Supply",
+            "Small Coconuts(250g)",
         product_3_text:
-            "Bulk coconut supply for retailers, restaurants, hotels and businesses.",
+            "Price: 20Rs.(per coconut)",
         product_3_button:
-            "Request Quote",
+            "Order Now",
 
         why_eyebrow:
             "WHY CHOOSE US",
@@ -209,11 +207,11 @@ const translations = {
             "Select product",
 
         form_tender:
-            "Tender Coconut",
+            "Large Coconuts",
         form_mature:
-            "Mature Coconut",
+            "Medium Coconuts",
         form_bulk:
-            "Bulk Supply",
+            "Small Coconuts",
 
         form_quantity:
             "Quantity",
